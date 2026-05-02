@@ -6,14 +6,6 @@ Inventory Analysis Dashboard | ABC Classification · Pareto Curve · Power BI ·
 
 ---
 
-## 📊 Dashboard Preview
-
-![Inventory Analysis Dashboard](dashboard_background.png)
-
-> **Page Size:** 1920 × 1080 px (Full HD) | **Theme:** Custom dark sidebar with white card panels
-
----
-
 ## 🎯 Project Objective
 
 This dashboard was built to answer key inventory management questions:
@@ -153,16 +145,6 @@ Date Text = -- Returns selected date range as formatted text
 
 ---
 
-## 🚀 How to Use
-
-1. Download the `Inventory_Analysis_in_Power_BI.pbix` file from this repository.
-2. Open it in **Power BI Desktop** (free download from [Microsoft](https://powerbi.microsoft.com/desktop/)).
-3. Click **Refresh** if connecting to your own data source.
-4. Use the **pill-shaped buttons** to switch between Quantity / Margin / Turnover views on the Category chart.
-5. Click any segment on the **ABC Class area chart** to filter the product table by class.
-
----
-
 ## 📁 Repository Structure
 
 ```
@@ -179,12 +161,3 @@ Date Text = -- Returns selected date range as formatted text
 - 💼 [LinkedIn](https://www.linkedin.com/in/) — Connect with me
 - 🐙 [GitHub](https://github.com/) — Download PBIX file
 
----
-
-## 📝 License
-
-This project is open for learning and portfolio purposes. Feel free to explore, adapt, and build upon it.
-
----
-
-*Built with ❤️ using Power BI Desktop*
