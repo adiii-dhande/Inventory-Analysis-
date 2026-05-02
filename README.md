@@ -148,21 +148,5 @@ Date Text = -- Returns selected date range as formatted text
 | **Power Query (M Language)** | Data transformation |
 | **Custom Background Image** | UI/UX design (PNG embedded in report) |
 
----
 
-## 📁 Repository Structure
-
-```
-📦 Inventory-Analysis-Power-BI
- ┣ 📊 Inventory_Analysis_in_Power_BI.pbix   ← Main Power BI report file
- ┣ 🖼️ dashboard_background.png              ← Dashboard preview / background
- ┗ 📄 README.md                             ← This file
-```
-
----
-
-## 🔗 Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/) — Connect with me
-- 🐙 [GitHub](https://github.com/) — Download PBIX file
 
