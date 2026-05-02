@@ -148,5 +148,12 @@ Date Text = -- Returns selected date range as formatted text
 | **Power Query (M Language)** | Data transformation |
 | **Custom Background Image** | UI/UX design (PNG embedded in report) |
 
+## Author
+
+**Aditya Dhande**
+
+- Email: adityadhande35@gmail.com
+- LinkedIn: https://linkedin.com/in/adiii-dhande
+- GitHub: https://github.com/adiii-dhande
 
 
